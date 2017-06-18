@@ -1,0 +1,2332 @@
+fileFormatVersion: 2
+guid: bac9717f71c7195479e0902b493eb8da
+timeCreated: 1497352614
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: hexagonAll_sheet_0
+    21300002: hexagonAll_sheet_1
+    21300004: hexagonAll_sheet_2
+    21300006: hexagonAll_sheet_3
+    21300008: hexagonAll_sheet_4
+    21300010: hexagonAll_sheet_5
+    21300012: hexagonAll_sheet_6
+    21300014: hexagonAll_sheet_7
+    21300016: hexagonAll_sheet_8
+    21300018: hexagonAll_sheet_9
+    21300020: hexagonAll_sheet_10
+    21300022: hexagonAll_sheet_11
+    21300024: hexagonAll_sheet_12
+    21300026: hexagonAll_sheet_13
+    21300028: hexagonAll_sheet_14
+    21300030: hexagonAll_sheet_15
+    21300032: hexagonAll_sheet_16
+    21300034: hexagonAll_sheet_17
+    21300036: hexagonAll_sheet_18
+    21300038: hexagonAll_sheet_19
+    21300040: hexagonAll_sheet_20
+    21300042: hexagonAll_sheet_21
+    21300044: hexagonAll_sheet_22
+    21300046: hexagonAll_sheet_23
+    21300048: hexagonAll_sheet_24
+    21300050: hexagonAll_sheet_25
+    21300052: hexagonAll_sheet_26
+    21300054: hexagonAll_sheet_27
+    21300056: hexagonAll_sheet_28
+    21300058: hexagonAll_sheet_29
+    21300060: hexagonAll_sheet_30
+    21300062: hexagonAll_sheet_31
+    21300064: hexagonAll_sheet_32
+    21300066: hexagonAll_sheet_33
+    21300068: hexagonAll_sheet_34
+    21300070: hexagonAll_sheet_35
+    21300072: hexagonAll_sheet_36
+    21300074: hexagonAll_sheet_37
+    21300076: hexagonAll_sheet_38
+    21300078: hexagonAll_sheet_39
+    21300080: hexagonAll_sheet_40
+    21300082: hexagonAll_sheet_41
+    21300084: hexagonAll_sheet_42
+    21300086: hexagonAll_sheet_43
+    21300088: hexagonAll_sheet_44
+    21300090: hexagonAll_sheet_45
+    21300092: hexagonAll_sheet_46
+    21300094: hexagonAll_sheet_47
+    21300096: hexagonAll_sheet_48
+    21300098: hexagonAll_sheet_49
+    21300100: hexagonAll_sheet_50
+    21300102: hexagonAll_sheet_51
+    21300104: hexagonAll_sheet_52
+    21300106: hexagonAll_sheet_53
+    21300108: hexagonAll_sheet_54
+    21300110: hexagonAll_sheet_55
+    21300112: hexagonAll_sheet_56
+    21300114: hexagonAll_sheet_57
+    21300116: hexagonAll_sheet_58
+    21300118: hexagonAll_sheet_59
+    21300120: hexagonAll_sheet_60
+    21300122: hexagonAll_sheet_61
+    21300124: hexagonAll_sheet_62
+    21300126: hexagonAll_sheet_63
+    21300128: hexagonAll_sheet_64
+    21300130: hexagonAll_sheet_65
+    21300132: hexagonAll_sheet_66
+    21300134: hexagonAll_sheet_67
+    21300136: hexagonAll_sheet_68
+    21300138: hexagonAll_sheet_69
+    21300140: hexagonAll_sheet_70
+    21300142: hexagonAll_sheet_71
+    21300144: hexagonAll_sheet_72
+    21300146: hexagonAll_sheet_73
+    21300148: hexagonAll_sheet_74
+    21300150: hexagonAll_sheet_75
+    21300152: hexagonAll_sheet_76
+    21300154: hexagonAll_sheet_77
+    21300156: hexagonAll_sheet_78
+    21300158: hexagonAll_sheet_79
+    21300160: hexagonAll_sheet_80
+    21300162: hexagonAll_sheet_81
+    21300164: hexagonAll_sheet_82
+    21300166: hexagonAll_sheet_83
+    21300168: hexagonAll_sheet_84
+    21300170: hexagonAll_sheet_85
+    21300172: hexagonAll_sheet_86
+    21300174: hexagonAll_sheet_87
+    21300176: hexagonAll_sheet_88
+    21300178: hexagonAll_sheet_89
+    21300180: hexagonAll_sheet_90
+    21300182: hexagonAll_sheet_91
+    21300184: hexagonAll_sheet_92
+    21300186: hexagonAll_sheet_93
+    21300188: hexagonAll_sheet_94
+    21300190: hexagonAll_sheet_95
+    21300192: hexagonAll_sheet_96
+    21300194: hexagonAll_sheet_97
+    21300196: hexagonAll_sheet_98
+    21300198: hexagonAll_sheet_99
+    21300200: hexagonAll_sheet_100
+    21300202: hexagonAll_sheet_101
+    21300204: hexagonAll_sheet_102
+    21300206: hexagonAll_sheet_103
+    21300208: hexagonAll_sheet_104
+    21300210: hexagonAll_sheet_105
+    21300212: hexagonAll_sheet_106
+    21300214: hexagonAll_sheet_107
+    21300216: hexagonAll_sheet_108
+    21300218: hexagonAll_sheet_109
+    21300220: hexagonAll_sheet_110
+    21300222: hexagonAll_sheet_111
+    21300224: hexagonAll_sheet_112
+    21300226: hexagonAll_sheet_113
+    21300228: hexagonAll_sheet_114
+    21300230: hexagonAll_sheet_115
+    21300232: hexagonAll_sheet_116
+    21300234: hexagonAll_sheet_117
+    21300236: hexagonAll_sheet_118
+    21300238: hexagonAll_sheet_119
+    21300240: hexagonAll_sheet_120
+    21300242: hexagonAll_sheet_121
+    21300244: hexagonAll_sheet_122
+    21300246: hexagonAll_sheet_123
+    21300248: hexagonAll_sheet_124
+    21300250: hexagonAll_sheet_125
+    21300252: hexagonAll_sheet_126
+    21300254: hexagonAll_sheet_127
+    21300256: hexagonAll_sheet_128
+    21300258: hexagonAll_sheet_129
+    21300260: hexagonAll_sheet_130
+    21300262: hexagonAll_sheet_131
+    21300264: hexagonAll_sheet_132
+    21300266: hexagonAll_sheet_133
+    21300268: hexagonAll_sheet_134
+    21300270: hexagonAll_sheet_135
+    21300272: hexagonAll_sheet_136
+    21300274: hexagonAll_sheet_137
+    21300276: hexagonAll_sheet_138
+    21300278: hexagonAll_sheet_139
+    21300280: hexagonAll_sheet_140
+    21300282: hexagonAll_sheet_141
+    21300284: hexagonAll_sheet_142
+    21300286: hexagonAll_sheet_143
+    21300288: hexagonAll_sheet_144
+    21300290: hexagonAll_sheet_145
+    21300292: hexagonAll_sheet_146
+    21300294: hexagonAll_sheet_147
+    21300296: hexagonAll_sheet_148
+    21300298: hexagonAll_sheet_149
+    21300300: hexagonAll_sheet_150
+    21300302: hexagonAll_sheet_151
+    21300304: hexagonAll_sheet_152
+    21300306: hexagonAll_sheet_153
+    21300308: hexagonAll_sheet_154
+    21300310: hexagonAll_sheet_155
+    21300312: hexagonAll_sheet_156
+    21300314: hexagonAll_sheet_157
+    21300316: hexagonAll_sheet_158
+    21300318: hexagonAll_sheet_159
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: WebGL
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: hexagonAll_sheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1908
+        width: 120
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hexagonAll_sheet_1
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 1908
+        width: 120
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hexagonAll_sheet_2
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 1908
+        width: 120
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hexagonAll_sheet_3
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 1908
+        width: 120
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hexagonAll_sheet_4
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 1908
+        width: 120
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hexagonAll_sheet_5
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 1908
+        width: 120
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hexagonAll_sheet_6
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 1908
+        width: 120
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hexagonAll_sheet_7
+      rect:
+        serializedVersion: 2
+        x: 854
+        y: 1908
+        width: 120
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hexagonAll_sheet_8
+      rect:
+        serializedVersion: 2
+        x: 976
+        y: 1908
+        width: 120
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hexagonAll_sheet_9
+      rect:
+        serializedVersion: 2
+        x: 1098
+        y: 1908
+        width: 120
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hexagonAll_sheet_10
+      rect:
+        serializedVersion: 2
+        x: 1220
+        y: 1908
+        width: 120
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hexagonAll_sheet_11
+      rect:
+        serializedVersion: 2
+        x: 1342
+        y: 1908
+        width: 120
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hexagonAll_sheet_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1766
+        width: 120
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hexagonAll_sheet_13
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 1766
+        width: 120
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hexagonAll_sheet_14
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 1766
+        width: 120
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hexagonAll_sheet_15
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 1766
+        width: 120
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hexagonAll_sheet_16
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 1766
+        width: 120
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hexagonAll_sheet_17
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 1766
+        width: 120
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hexagonAll_sheet_18
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 1766
+        width: 120
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hexagonAll_sheet_19
+      rect:
+        serializedVersion: 2
+        x: 854
+        y: 1766
+        width: 120
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hexagonAll_sheet_20
+      rect:
+        serializedVersion: 2
+        x: 976
+        y: 1766
+        width: 120
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hexagonAll_sheet_21
+      rect:
+        serializedVersion: 2
+        x: 1098
+        y: 1766
+        width: 120
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hexagonAll_sheet_22
+      rect:
+        serializedVersion: 2
+        x: 1220
+        y: 1766
+        width: 120
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hexagonAll_sheet_23
+      rect:
+        serializedVersion: 2
+        x: 1342
+        y: 1805
+        width: 88
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hexagonAll_sheet_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1624
+        width: 120
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hexagonAll_sheet_25
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 1624
+        width: 120
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hexagonAll_sheet_26
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 1624
+        width: 120
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hexagonAll_sheet_27
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 1624
+        width: 120
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hexagonAll_sheet_28
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 1624
+        width: 120
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hexagonAll_sheet_29
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 1624
+        width: 120
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hexagonAll_sheet_30
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 1624
+        width: 120
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hexagonAll_sheet_31
+      rect:
+        serializedVersion: 2
+        x: 854
+        y: 1624
+        width: 120
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hexagonAll_sheet_32
+      rect:
+        serializedVersion: 2
+        x: 976
+        y: 1624
+        width: 120
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hexagonAll_sheet_33
+      rect:
+        serializedVersion: 2
+        x: 1098
+        y: 1624
+        width: 120
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hexagonAll_sheet_34
+      rect:
+        serializedVersion: 2
+        x: 1220
+        y: 1624
+        width: 120
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hexagonAll_sheet_35
+      rect:
+        serializedVersion: 2
+        x: 1342
+        y: 1702
+        width: 88
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hexagonAll_sheet_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1482
+        width: 120
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hexagonAll_sheet_37
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 1482
+        width: 120
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hexagonAll_sheet_38
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 1482
+        width: 120
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hexagonAll_sheet_39
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 1482
+        width: 120
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hexagonAll_sheet_40
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 1482
+        width: 120
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hexagonAll_sheet_41
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 1482
+        width: 120
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hexagonAll_sheet_42
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 1482
+        width: 120
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hexagonAll_sheet_43
+      rect:
+        serializedVersion: 2
+        x: 854
+        y: 1482
+        width: 120
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hexagonAll_sheet_44
+      rect:
+        serializedVersion: 2
+        x: 976
+        y: 1482
+        width: 120
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hexagonAll_sheet_45
+      rect:
+        serializedVersion: 2
+        x: 1098
+        y: 1482
+        width: 120
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hexagonAll_sheet_46
+      rect:
+        serializedVersion: 2
+        x: 1220
+        y: 1482
+        width: 120
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hexagonAll_sheet_47
+      rect:
+        serializedVersion: 2
+        x: 1342
+        y: 1599
+        width: 88
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hexagonAll_sheet_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1340
+        width: 120
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hexagonAll_sheet_49
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 1340
+        width: 120
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hexagonAll_sheet_50
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 1340
+        width: 120
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hexagonAll_sheet_51
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 1340
+        width: 120
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hexagonAll_sheet_52
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 1340
+        width: 120
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hexagonAll_sheet_53
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 1340
+        width: 120
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hexagonAll_sheet_54
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 1340
+        width: 120
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hexagonAll_sheet_55
+      rect:
+        serializedVersion: 2
+        x: 854
+        y: 1340
+        width: 120
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hexagonAll_sheet_56
+      rect:
+        serializedVersion: 2
+        x: 976
+        y: 1340
+        width: 120
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hexagonAll_sheet_57
+      rect:
+        serializedVersion: 2
+        x: 1098
+        y: 1340
+        width: 120
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hexagonAll_sheet_58
+      rect:
+        serializedVersion: 2
+        x: 1220
+        y: 1340
+        width: 120
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hexagonAll_sheet_59
+      rect:
+        serializedVersion: 2
+        x: 1342
+        y: 1496
+        width: 88
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hexagonAll_sheet_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1198
+        width: 120
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hexagonAll_sheet_61
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 1198
+        width: 120
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hexagonAll_sheet_62
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 1198
+        width: 120
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hexagonAll_sheet_63
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 1198
+        width: 120
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hexagonAll_sheet_64
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 1198
+        width: 120
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hexagonAll_sheet_65
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 1198
+        width: 120
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hexagonAll_sheet_66
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 1198
+        width: 120
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hexagonAll_sheet_67
+      rect:
+        serializedVersion: 2
+        x: 854
+        y: 1198
+        width: 120
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hexagonAll_sheet_68
+      rect:
+        serializedVersion: 2
+        x: 976
+        y: 1198
+        width: 120
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hexagonAll_sheet_69
+      rect:
+        serializedVersion: 2
+        x: 1098
+        y: 1198
+        width: 120
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hexagonAll_sheet_70
+      rect:
+        serializedVersion: 2
+        x: 1220
+        y: 1198
+        width: 120
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hexagonAll_sheet_71
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1056
+        width: 120
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hexagonAll_sheet_72
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 1056
+        width: 120
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hexagonAll_sheet_73
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 1056
+        width: 120
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hexagonAll_sheet_74
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 1056
+        width: 120
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hexagonAll_sheet_75
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 1056
+        width: 120
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hexagonAll_sheet_76
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 1056
+        width: 120
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hexagonAll_sheet_77
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 1056
+        width: 120
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hexagonAll_sheet_78
+      rect:
+        serializedVersion: 2
+        x: 854
+        y: 1056
+        width: 120
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hexagonAll_sheet_79
+      rect:
+        serializedVersion: 2
+        x: 976
+        y: 1056
+        width: 120
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hexagonAll_sheet_80
+      rect:
+        serializedVersion: 2
+        x: 1098
+        y: 1056
+        width: 120
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hexagonAll_sheet_81
+      rect:
+        serializedVersion: 2
+        x: 1220
+        y: 1056
+        width: 120
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hexagonAll_sheet_82
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 914
+        width: 120
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hexagonAll_sheet_83
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 914
+        width: 120
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hexagonAll_sheet_84
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 914
+        width: 120
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hexagonAll_sheet_85
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 914
+        width: 120
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hexagonAll_sheet_86
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 914
+        width: 120
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hexagonAll_sheet_87
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 914
+        width: 120
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hexagonAll_sheet_88
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 914
+        width: 120
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hexagonAll_sheet_89
+      rect:
+        serializedVersion: 2
+        x: 854
+        y: 914
+        width: 120
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hexagonAll_sheet_90
+      rect:
+        serializedVersion: 2
+        x: 976
+        y: 914
+        width: 120
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hexagonAll_sheet_91
+      rect:
+        serializedVersion: 2
+        x: 1098
+        y: 914
+        width: 120
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hexagonAll_sheet_92
+      rect:
+        serializedVersion: 2
+        x: 1220
+        y: 914
+        width: 120
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hexagonAll_sheet_93
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 772
+        width: 120
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hexagonAll_sheet_94
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 772
+        width: 120
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hexagonAll_sheet_95
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 772
+        width: 120
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hexagonAll_sheet_96
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 772
+        width: 120
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hexagonAll_sheet_97
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 772
+        width: 120
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hexagonAll_sheet_98
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 772
+        width: 120
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hexagonAll_sheet_99
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 772
+        width: 120
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hexagonAll_sheet_100
+      rect:
+        serializedVersion: 2
+        x: 854
+        y: 772
+        width: 120
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hexagonAll_sheet_101
+      rect:
+        serializedVersion: 2
+        x: 976
+        y: 772
+        width: 120
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hexagonAll_sheet_102
+      rect:
+        serializedVersion: 2
+        x: 1098
+        y: 772
+        width: 120
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hexagonAll_sheet_103
+      rect:
+        serializedVersion: 2
+        x: 1220
+        y: 772
+        width: 120
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hexagonAll_sheet_104
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 630
+        width: 120
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hexagonAll_sheet_105
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 630
+        width: 120
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hexagonAll_sheet_106
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 630
+        width: 120
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hexagonAll_sheet_107
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 630
+        width: 120
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hexagonAll_sheet_108
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 630
+        width: 120
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hexagonAll_sheet_109
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 630
+        width: 120
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hexagonAll_sheet_110
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 630
+        width: 120
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hexagonAll_sheet_111
+      rect:
+        serializedVersion: 2
+        x: 854
+        y: 630
+        width: 120
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hexagonAll_sheet_112
+      rect:
+        serializedVersion: 2
+        x: 976
+        y: 630
+        width: 120
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hexagonAll_sheet_113
+      rect:
+        serializedVersion: 2
+        x: 1098
+        y: 630
+        width: 120
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hexagonAll_sheet_114
+      rect:
+        serializedVersion: 2
+        x: 1220
+        y: 630
+        width: 120
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hexagonAll_sheet_115
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 488
+        width: 120
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hexagonAll_sheet_116
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 488
+        width: 120
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hexagonAll_sheet_117
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 488
+        width: 120
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hexagonAll_sheet_118
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 488
+        width: 120
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hexagonAll_sheet_119
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 488
+        width: 120
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hexagonAll_sheet_120
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 488
+        width: 120
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hexagonAll_sheet_121
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 488
+        width: 120
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hexagonAll_sheet_122
+      rect:
+        serializedVersion: 2
+        x: 854
+        y: 488
+        width: 120
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hexagonAll_sheet_123
+      rect:
+        serializedVersion: 2
+        x: 976
+        y: 488
+        width: 120
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hexagonAll_sheet_124
+      rect:
+        serializedVersion: 2
+        x: 1098
+        y: 488
+        width: 120
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hexagonAll_sheet_125
+      rect:
+        serializedVersion: 2
+        x: 1220
+        y: 488
+        width: 120
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hexagonAll_sheet_126
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 346
+        width: 120
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hexagonAll_sheet_127
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 346
+        width: 120
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hexagonAll_sheet_128
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 346
+        width: 120
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hexagonAll_sheet_129
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 346
+        width: 120
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hexagonAll_sheet_130
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 346
+        width: 120
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hexagonAll_sheet_131
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 346
+        width: 120
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hexagonAll_sheet_132
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 346
+        width: 120
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hexagonAll_sheet_133
+      rect:
+        serializedVersion: 2
+        x: 854
+        y: 346
+        width: 120
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hexagonAll_sheet_134
+      rect:
+        serializedVersion: 2
+        x: 976
+        y: 346
+        width: 120
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hexagonAll_sheet_135
+      rect:
+        serializedVersion: 2
+        x: 1098
+        y: 346
+        width: 120
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hexagonAll_sheet_136
+      rect:
+        serializedVersion: 2
+        x: 1220
+        y: 346
+        width: 120
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hexagonAll_sheet_137
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 204
+        width: 120
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hexagonAll_sheet_138
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 204
+        width: 120
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hexagonAll_sheet_139
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 204
+        width: 120
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hexagonAll_sheet_140
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 204
+        width: 120
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hexagonAll_sheet_141
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 204
+        width: 120
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hexagonAll_sheet_142
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 204
+        width: 120
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hexagonAll_sheet_143
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 204
+        width: 120
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hexagonAll_sheet_144
+      rect:
+        serializedVersion: 2
+        x: 854
+        y: 204
+        width: 120
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hexagonAll_sheet_145
+      rect:
+        serializedVersion: 2
+        x: 976
+        y: 204
+        width: 120
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hexagonAll_sheet_146
+      rect:
+        serializedVersion: 2
+        x: 1098
+        y: 204
+        width: 120
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hexagonAll_sheet_147
+      rect:
+        serializedVersion: 2
+        x: 1220
+        y: 204
+        width: 120
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hexagonAll_sheet_148
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 62
+        width: 120
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hexagonAll_sheet_149
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 62
+        width: 120
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hexagonAll_sheet_150
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 62
+        width: 120
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hexagonAll_sheet_151
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 62
+        width: 120
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hexagonAll_sheet_152
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 62
+        width: 120
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hexagonAll_sheet_153
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 62
+        width: 120
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hexagonAll_sheet_154
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 62
+        width: 120
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hexagonAll_sheet_155
+      rect:
+        serializedVersion: 2
+        x: 854
+        y: 62
+        width: 120
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hexagonAll_sheet_156
+      rect:
+        serializedVersion: 2
+        x: 976
+        y: 62
+        width: 120
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hexagonAll_sheet_157
+      rect:
+        serializedVersion: 2
+        x: 1098
+        y: 62
+        width: 120
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hexagonAll_sheet_158
+      rect:
+        serializedVersion: 2
+        x: 1220
+        y: 62
+        width: 120
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hexagonAll_sheet_159
+      rect:
+        serializedVersion: 2
+        x: 1342
+        y: 1392
+        width: 88
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
