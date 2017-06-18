@@ -1,0 +1,3 @@
+[submodule "Assets/Pathfind"]
+	path = Assets/Pathfind
+	url = https://github.com/Clarksj4/Pathfind.git
