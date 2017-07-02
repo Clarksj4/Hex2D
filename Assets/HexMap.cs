@@ -9,92 +9,64 @@ public class HexMap : MonoBehaviour
     public int CellsWide = 2;
     public int CellsHigh = 2;
 
+    public HexCell this[AxialCoordinate coordinate]
+    {
+        get
+        {
+            // Check if map contains cell at given coordinate
+            if (!Contains(coordinate))
+                return null;
+
+            return cells[coordinate.Column, coordinate.Y];
+        }
+    }
+
     public float OuterDiameter { get; private set; }
     public float InnerRadius { get; private set; }
     public float InnerDiameter { get; private set; }
     public Vector3 Size { get; private set; }
     public Vector3 Extents { get; private set; }
-    public Vector3 RowOffset { get; private set; }
 
-    private void Init()
+    private HexCell[,] cells;
+
+    private void Awake()
     {
+        // Dimensions of a cell
         OuterDiameter = OuterRadius * 2;
         InnerRadius = OuterRadius * 0.866025404f;
         InnerDiameter = InnerRadius * 2;
 
+        // Is there more than a single row? (odd rows are offset which increases width)
         int isRowOffset = CellsHigh > 1 ? 1 : 0;
 
+        // Width and Height of bounding box
         float width = (InnerDiameter * CellsWide) + (isRowOffset * InnerRadius);
         float height = OuterDiameter + (OuterRadius * 1.5f * (CellsHigh - 1));
 
+        // Size and extents of bounding box
         Size = new Vector3(width, height);
         Extents = Size / 2;
 
+        // Set size of bounding box
         GetComponent<BoxCollider2D>().size = Size;
-    }
 
-    private void OnValidate()
-    {
-        Init();
-    }
-
-    private void OnDrawGizmos()
-    {
-        for (int column = 0; column < CellsWide; column++)
-        {
-            for (int row = 0; row < CellsHigh; row++)
-            {
-                DrawCell(column, row);
-            }
-        }
-    }
-
-    private void DrawCell(int x, int y)
-    {
-        Vector3 cellCentre = GetCellCentre(new Coordinate(x, y));
-        Vector3[] vertices = HexMesh.GetVertices(cellCentre, OuterRadius);
-
-        for (int i = 0; i < vertices.Length - 1; i++)
-            Gizmos.DrawLine(vertices[i], vertices[i + 1]);
-
-        Gizmos.DrawLine(vertices[vertices.Length - 1], vertices[0]);
-    }
-
-    private void OnMouseDown()
-    {
-        Vector3 worldPosition = Camera.main.ScreenToWorldPoint(Input.mousePosition);
-        Coordinate cell = GetCell(worldPosition);
-        Vector3 cellCentre = GetCellCentre(cell);
-
-        print("World Position 1: " + worldPosition + ", Cell: " + cell + ", " + "Cell Centre: " + cellCentre);
-    }
-    
-    public Vector3 GetCellCentre(Coordinate cell)
-    {
-        // Is the row odd (odd rows are offset by InnerRadius distance)
-        int odd = cell.y % 2;
-
-        // Get cell centre's distance from bottom left of map
-        float xFromBottomLeft = InnerRadius + (cell.x * InnerDiameter) + (odd * InnerRadius);
-        float yFromBottomLeft = OuterRadius + (cell.y * 1.5f * OuterRadius);
-        Vector3 fromBottomLeft = new Vector3(xFromBottomLeft, yFromBottomLeft);
-
-        // Convert to distance from centre of map
-        Vector3 fromCentre = fromBottomLeft - Extents;
-        
-        // Convert to world position
-        Vector3 worldPosition = transform.TransformPoint(fromCentre);
-        return worldPosition;
+        // Create cell scene objects
+        CreateCells();
     }
 
     //
     // https://stackoverflow.com/questions/7705228/hexagonal-grids-how-do-you-find-which-hexagon-a-point-is-in
     //
-    private Coordinate GetCell(Vector3 point)
+    // Checks if the point lies within a rectangular box that covers the bottom 3/4 of the hex. Checks if the
+    // point lies on either side of the sloped sides of the bottom of the hexagon and adjusts the coordinate
+    // accordingly
+    public HexCell GetCell(Vector3 point)
     {
+        // Convert to local point then point relative to bottom left of the hex map
         Vector3 localPoint = transform.InverseTransformPoint(point);
         Vector3 fromBottomLeft = localPoint + Extents;
 
+        // Using stackoverflow names
         float gridHeight = 1.5f * OuterRadius;
         float gridWidth = InnerDiameter;
         float halfWidth = InnerRadius;
@@ -136,6 +108,68 @@ public class HexMap : MonoBehaviour
                 column++;
         }
 
-        return new Coordinate(column, row);
+        // If there is no cell at point
+        if (!Contains(column, row))
+            return null;
+
+        return cells[row, column];
     }
+
+    public bool Contains(AxialCoordinate coordinate)
+    {
+        return Contains(coordinate.Column, coordinate.Y);
+    }
+
+    private bool Contains(int x, int y)
+    {
+        return x >= 0 &&
+               x < cells.GetLength(1) &&
+               y >= 0 &&
+               y < cells.GetLength(0);
+    }
+
+    private void CreateCells()
+    {
+        cells = new HexCell[CellsHigh, CellsWide];
+        for (int column = 0; column < CellsWide; column++)
+        {
+            for (int row = 0; row < CellsHigh; row++)
+            {
+                // Calculate axial coordinate
+                AxialCoordinate coordinate = AxialCoordinate.FromGridIndices(column, row);
+
+                // Create scene object as child, named with coordinate
+                GameObject hexObject = new GameObject("HexCell: " + coordinate.ToString());
+                hexObject.transform.SetParent(transform);
+
+                // Add cell component, set coordinate, and corresponding position
+                HexCell cell = hexObject.AddComponent<HexCell>();
+                cell.Coordinate = coordinate;
+                cell.transform.position = GetCellCentre(cell.Coordinate);
+
+                // Save to 2d array
+                cells[row, column] = cell;
+            }
+        }
+    }
+
+    public Vector3 GetCellCentre(AxialCoordinate cell)
+    {
+        // Is the row odd (odd rows are offset by InnerRadius distance)
+        int odd = cell.Y % 2;
+
+        // Get cell centre's distance from bottom left of map
+        float xFromBottomLeft = InnerRadius + (cell.Column * InnerDiameter) + (odd * InnerRadius);
+        float yFromBottomLeft = OuterRadius + (cell.Y * 1.5f * OuterRadius);
+        Vector3 fromBottomLeft = new Vector3(xFromBottomLeft, yFromBottomLeft);
+
+        // Convert to distance from centre of map
+        Vector3 fromCentre = fromBottomLeft - Extents;
+
+        // Convert to world position
+        Vector3 worldPosition = transform.TransformPoint(fromCentre);
+        return worldPosition;
+    }
+
+
 }
